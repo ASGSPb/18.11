@@ -1,0 +1,15 @@
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\bin\Debug\net6.0\Exemple001_Hello.exe
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\bin\Debug\net6.0\Exemple001_Hello.deps.json
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\bin\Debug\net6.0\Exemple001_Hello.runtimeconfig.json
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\bin\Debug\net6.0\Exemple001_Hello.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\bin\Debug\net6.0\Exemple001_Hello.pdb
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\Exemple001_Hello.csproj.AssemblyReference.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\Exemple001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\Exemple001_Hello.AssemblyInfoInputs.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\Exemple001_Hello.AssemblyInfo.cs
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\Exemple001_Hello.csproj.CoreCompileInputs.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\Exemple001_Hello.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\refint\Exemple001_Hello.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\Exemple001_Hello.pdb
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\Exemple001_Hello.genruntimeconfig.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple001_Hello\obj\Debug\net6.0\ref\Exemple001_Hello.dll
