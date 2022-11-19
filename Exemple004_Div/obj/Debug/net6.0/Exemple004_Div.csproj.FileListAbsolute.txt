@@ -1,0 +1,15 @@
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.exe
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.deps.json
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.runtimeconfig.json
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\bin\Debug\net6.0\Exemple004_Div.pdb
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.csproj.AssemblyReference.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.AssemblyInfoInputs.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.AssemblyInfo.cs
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.csproj.CoreCompileInputs.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\refint\Exemple004_Div.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.pdb
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\Exemple004_Div.genruntimeconfig.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple004_Div\obj\Debug\net6.0\ref\Exemple004_Div.dll
