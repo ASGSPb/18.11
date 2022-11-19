@@ -1,0 +1,15 @@
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\Exampel006.csproj.AssemblyReference.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\Exampel006.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\Exampel006.AssemblyInfoInputs.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\Exampel006.AssemblyInfo.cs
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\Exampel006.csproj.CoreCompileInputs.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\bin\Debug\net6.0\Exampel006.exe
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\bin\Debug\net6.0\Exampel006.deps.json
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\bin\Debug\net6.0\Exampel006.runtimeconfig.json
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\bin\Debug\net6.0\Exampel006.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\bin\Debug\net6.0\Exampel006.pdb
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\Exampel006.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\refint\Exampel006.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\Exampel006.pdb
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\Exampel006.genruntimeconfig.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exampel006\obj\Debug\net6.0\ref\Exampel006.dll
