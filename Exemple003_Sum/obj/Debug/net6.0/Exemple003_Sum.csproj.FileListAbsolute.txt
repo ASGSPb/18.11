@@ -1,0 +1,15 @@
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.csproj.AssemblyReference.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.AssemblyInfoInputs.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.AssemblyInfo.cs
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.csproj.CoreCompileInputs.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.exe
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.deps.json
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.runtimeconfig.json
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\bin\Debug\net6.0\Exemple003_Sum.pdb
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\refint\Exemple003_Sum.dll
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.pdb
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\Exemple003_Sum.genruntimeconfig.cache
+D:\1\GB\C#\18.11\Lecture\Exemples\Exemple003_Sum\obj\Debug\net6.0\ref\Exemple003_Sum.dll
